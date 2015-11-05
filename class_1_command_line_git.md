@@ -9,7 +9,7 @@
 * `touch` : Create/edit file
 * `cat` : Shows contents of the files
 * `.` : Current drectory
-* `rm` : edits file
+* `rm` : remove file
 * `rm -rf` : Force remove
 * `man` : Help directory or manual directory
 # Basic Git commands
